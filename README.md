@@ -7,7 +7,7 @@
   <a href="#contato">Contato</a>
 </p>
 <h1 align='center'>
-  <img src='https://keyholesoftware.com/wp-content/uploads/React-Redux.png.webp' width="350" heigth="350"/>
+  <img src='https://github.com/carloshtbraga/App-de-Receitas-Group-Project/blob/main/src/images/mobile.png' width="350" heigth="350"/>
 </h1>
 <h1 align='center'>Sobre o projeto</h1>
 <p align='center'>O App de Receitas foi um projeto desenvolvido durante o curso de formação Trybe que tem como objetivo testar conhecimentos em tudo que foi aprendido durante o módulo de fundamentos e front-end. Esse é o projeto mais completo desenvolvido no módulo de front.</p>
