@@ -11,7 +11,7 @@
 </h1>
 <h1 align='center'>Sobre o projeto</h1>
 <p align='center'>O App de Receitas foi um projeto desenvolvido durante o curso de formação Trybe que tem como objetivo testar conhecimentos em tudo que foi aprendido durante o módulo de fundamentos e front-end. Esse é o projeto mais completo desenvolvido no módulo de front.</p>
-<p align='center'>Neste projeto foi desenvolvida uma página de Trivia, na qual o usuário tem que logar, e a seguir irá responder perguntas e ao acertar receberá pontos de acordo com a dificuldade da pergunta e o tempo restante.</p>
+
 <br>
 <h1 align='center'>Tecnologias utilizadas</h1>
                                                 - React
